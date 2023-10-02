@@ -1,4 +1,4 @@
-# Set .ir and .md files to be text files with LF line endings 
+# Set .ir,.txt and .md files to be text files with LF line endings 
 *.ir text eol=lf
 *.txt text eol=lf
 *.md text eol=lf
