@@ -1,4 +1,4 @@
-name: "🧐 Checking IR Files"
+name: "🧐 Checking IR Files in time..."
 
 on:
   pull_request_target:
